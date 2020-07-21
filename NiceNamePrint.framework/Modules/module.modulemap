@@ -1,0 +1,6 @@
+framework module NiceNamePrint {
+  umbrella header "NiceNamePrint.h"
+
+  export *
+  module * { export * }
+}
